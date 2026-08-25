@@ -15,6 +15,7 @@ FileOpenOrder/
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.patch
 
 # Starter Content (Optionnel, mais recommandé si tu veux un dépôt léger)
 # Décommente la ligne suivante pour ignorer TOUT le dossier StarterContent
