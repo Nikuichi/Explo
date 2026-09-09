@@ -20,3 +20,16 @@ FileOpenOrder/
 # Starter Content (Optionnel, mais recommandé si tu veux un dépôt léger)
 # Décommente la ligne suivante pour ignorer TOUT le dossier StarterContent
 Content/StarterContent/
+Binaries/Win64/D3D12/D3D12Core.dll
+Binaries/Win64/D3D12/d3d12SDKLayers.dll
+Binaries/Win64/ExploProto.exe
+Binaries/Win64/ExploProto.exp
+Binaries/Win64/ExploProto.lib
+Binaries/Win64/ExploProto.pdb
+Binaries/Win64/ExploProto.target
+Binaries/Win64/OpenImageDenoise.dll
+Binaries/Win64/tbb.dll
+Binaries/Win64/tbb.pdb
+Binaries/Win64/tbb12.dll
+Binaries/Win64/tbbmalloc.dll
+Binaries/Win64/tbbmalloc.pdb
